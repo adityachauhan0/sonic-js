@@ -4,8 +4,7 @@ export default function disclaimer() {
   k.add([
     k.text(
       `
-        Sonic is owned by SEGA.
-        This is a fangame made by JSLegendDev using assets from Sonic Mania
+      Fan Game by Aditya Chauhan.
       `,
       { font: "mania", size: 32 }
     ),
